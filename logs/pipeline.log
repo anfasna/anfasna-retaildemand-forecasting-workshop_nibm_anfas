@@ -1,0 +1,20 @@
+2026-01-19 12:41:09,186 - RetailForecastPipeline - INFO - Starting Retail Demand Forecasting Pipeline
+2026-01-19 12:41:09,192 - RetailForecastPipeline - INFO - Data preprocessing completed
+2026-01-19 12:41:09,194 - RetailForecastPipeline - INFO - Feature engineering completed
+2026-01-19 12:41:09,195 - RetailForecastPipeline - DEBUG - Columns after feature engineering: ['date', 'store_id', 'item_id', 'sales_qty', 'day_of_week', 'is_weekend']
+2026-01-19 12:41:09,202 - RetailForecastPipeline - INFO - Features prepared & train/test split done
+2026-01-19 12:41:09,315 - RetailForecastPipeline - INFO - Model training & saving completed at models/random_forest.pkl
+2026-01-19 12:41:09,324 - RetailForecastPipeline - INFO - Model evaluation completed
+2026-01-19 12:41:09,355 - RetailForecastPipeline - INFO - Inference completed & predictions saved
+2026-01-19 12:41:09,356 - RetailForecastPipeline - INFO - 
+ Pipeline completed successfully
+2026-01-19 14:39:49,290 - RetailForecastPipeline - INFO - Starting Retail Demand Forecasting Pipeline
+2026-01-19 14:39:49,290 - RetailForecastPipeline - INFO - Data preprocessing completed
+2026-01-19 14:39:49,290 - RetailForecastPipeline - INFO - Feature engineering completed
+2026-01-19 14:39:49,290 - RetailForecastPipeline - DEBUG - Columns after feature engineering: ['date', 'store_id', 'item_id', 'sales_qty', 'day_of_week', 'is_weekend']
+2026-01-19 14:39:49,290 - RetailForecastPipeline - INFO - Features prepared & train/test split done
+2026-01-19 14:39:49,584 - RetailForecastPipeline - INFO - Model training & saving completed at models/random_forest.pkl
+2026-01-19 14:39:49,626 - RetailForecastPipeline - INFO - Model evaluation completed
+2026-01-19 14:39:49,747 - RetailForecastPipeline - INFO - Inference completed & predictions saved
+2026-01-19 14:39:49,747 - RetailForecastPipeline - INFO - 
+ Pipeline completed successfully
